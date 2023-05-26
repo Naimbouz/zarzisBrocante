@@ -1,5 +1,5 @@
 <template>
-  <listOfProducts :products="getNotebooks"/>
+  <listOfProducts :products="getNotebooks" />
 </template>
 
 <script>
@@ -19,6 +19,6 @@ export default {
 };
 </script>
 
-<style>
-</style>
+<style></style>
 
+<!-- djheckzgfuezu -->
